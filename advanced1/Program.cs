@@ -1,4 +1,6 @@
-﻿namespace advanced1
+﻿using System.ComponentModel.Design;
+
+namespace advanced1
 {
     internal class Program
     {
@@ -28,7 +30,12 @@
             #endregion
 
             #region question6
-           // cant answer
+            // cant answer
+            #endregion
+
+            #region question7
+            //struct constraints allows only valus types including nullabe value type refrence type are not allowed
+            
             #endregion
         }
     }
