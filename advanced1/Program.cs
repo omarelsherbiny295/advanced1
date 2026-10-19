@@ -64,16 +64,20 @@ namespace advanced1
             //returns the default value of a type 
             #endregion
             #region 14
-            safelist<int> list = new safelist<int>();
+            //safelist<int> list = new safelist<int>();
 
-            list.Add(1);
-            list.Add(2);
-            list.Add(3);
+            //list.Add(1);
+            //list.Add(2);
+            //list.Add(3);
 
-            Console.WriteLine(list.Get(0));
-            Console.WriteLine(list.Get(2));
-            Console.WriteLine(list.Get(5));
+            //Console.WriteLine(list.Get(0));
+            //Console.WriteLine(list.Get(2));
+            //Console.WriteLine(list.Get(5));
 
+            #endregion
+
+            #region 15
+            //covariance allows using a more derived type instead of base type using out keyword
             #endregion
         }
     }
