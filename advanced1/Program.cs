@@ -28,7 +28,7 @@
             #endregion
 
             #region question6
-            //can not answer
+           // cant answer
             #endregion
         }
     }
