@@ -83,6 +83,10 @@ namespace advanced1
             //allows using a base type where a derived type is expected ituses the in keyword
             #endregion
 
+            #region 17
+            //Covariance:  Allow using a derived type instead of  base type
+            //Contravariance:  Allow using a base type instead of  derived type
+            #endregion
         }
     }
 }
