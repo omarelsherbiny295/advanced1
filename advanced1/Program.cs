@@ -45,10 +45,13 @@ namespace advanced1
 
             #region question9
             //the new constraint requires that the type has a parameterless constructour it allows to create new instance of T  using new T()
-  
+
             //الexample معرفتش اعمله صح
             #endregion
 
+            #region question10
+            //cant answer
+            #endregion
         }
     }
 }
