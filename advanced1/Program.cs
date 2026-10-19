@@ -87,6 +87,10 @@ namespace advanced1
             //Covariance:  Allow using a derived type instead of  base type
             //Contravariance:  Allow using a base type instead of  derived type
             #endregion
+
+            #region 18
+            //cannot answer
+            #endregion
         }
     }
 }
