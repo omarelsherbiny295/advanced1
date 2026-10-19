@@ -79,6 +79,10 @@ namespace advanced1
             #region 15
             //covariance allows using a more derived type instead of base type using out keyword
             #endregion
+            #region 16
+            //allows using a base type where a derived type is expected ituses the in keyword
+            #endregion
+
         }
     }
 }
