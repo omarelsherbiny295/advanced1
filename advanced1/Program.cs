@@ -12,6 +12,10 @@
             #endregion
 
 
+            #region question3
+            //A generic class can have more than one type parameter 
+
+            #endregion
         }
     }
 }
