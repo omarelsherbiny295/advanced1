@@ -59,6 +59,10 @@ namespace advanced1
             #region 12
             // cant answer
             #endregion
+
+            #region 13
+            //returns the default value of a type 
+            #endregion
         }
     }
 }
