@@ -26,6 +26,10 @@
             //method that  uses a type parameter to find maximum value between two cmparable value 
 
             #endregion
+
+            #region question6
+            //can not answer
+            #endregion
         }
     }
 }
