@@ -63,6 +63,18 @@ namespace advanced1
             #region 13
             //returns the default value of a type 
             #endregion
+            #region 14
+            safelist<int> list = new safelist<int>();
+
+            list.Add(1);
+            list.Add(2);
+            list.Add(3);
+
+            Console.WriteLine(list.Get(0));
+            Console.WriteLine(list.Get(2));
+            Console.WriteLine(list.Get(5));
+
+            #endregion
         }
     }
 }
