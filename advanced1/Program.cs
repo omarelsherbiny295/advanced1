@@ -33,10 +33,18 @@ namespace advanced1
             // cant answer
             #endregion
 
-            #region question7
-            //struct constraints allows only valus types including nullabe value type refrence type are not allowed
-            
+
+            #region qusetion8 
+            //the class constraints alows only refrence type , values types are not allowed
+            classconstraints<string> obj = new classconstraints <string>();
+
+            obj.Value = "omar";
+
+            Console.WriteLine(obj.Value);
             #endregion
+
+
+
         }
     }
 }
