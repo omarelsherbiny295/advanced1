@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region question1 
+            //generic class can work with different data types using a type parameter 
+
+            //we use it to reuse code avoid dupication improve type safety
+
+            #endregion
+
+
         }
     }
 }
