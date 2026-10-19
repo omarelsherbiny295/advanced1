@@ -21,6 +21,11 @@
             // is a method that uses a type parameter to work with diffrent data types 
 
             #endregion
+
+            #region question5
+            //method that  uses a type parameter to find maximum value between two cmparable value 
+
+            #endregion
         }
     }
 }
