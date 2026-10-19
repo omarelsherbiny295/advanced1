@@ -36,14 +36,18 @@ namespace advanced1
 
             #region qusetion8 
             //the class constraints alows only refrence type , values types are not allowed
-            classconstraints<string> obj = new classconstraints <string>();
+            //classconstraints<string> obj = new classconstraints <string>();
 
-            obj.Value = "omar";
+            //obj.Value = "omar";
 
-            Console.WriteLine(obj.Value);
+            //Console.WriteLine(obj.Value);
             #endregion
 
-
+            #region question9
+            //the new constraint requires that the type has a parameterless constructour it allows to create new instance of T  using new T()
+  
+            //الexample معرفتش اعمله صح
+            #endregion
 
         }
     }
