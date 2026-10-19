@@ -16,6 +16,11 @@
             //A generic class can have more than one type parameter 
 
             #endregion
+
+            #region question4 
+            // is a method that uses a type parameter to work with diffrent data types 
+
+            #endregion
         }
     }
 }
